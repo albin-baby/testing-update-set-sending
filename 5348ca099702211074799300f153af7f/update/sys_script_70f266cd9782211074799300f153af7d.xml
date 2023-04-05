@@ -18,7 +18,7 @@
         <filter_condition/>
         <is_rest>false</is_rest>
         <message/>
-        <name>Display BR</name>
+        <name>Display BR #1</name>
         <order>100</order>
         <priority>100</priority>
         <rest_method/>
